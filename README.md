@@ -59,7 +59,7 @@ I also have the ability to design problem sets for various AI use cases, ğŸ’ªğŸ
 <br />
 
 
-<p align="center">
+<p style="display:flex;">
   <a href="https://github.com/yaroslav318/github-readme-stats">
     <img
       height="150"
